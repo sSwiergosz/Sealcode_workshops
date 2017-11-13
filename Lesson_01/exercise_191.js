@@ -4,12 +4,12 @@ var text = 'Operuję na zdaniu: "Podstawą szczęścia jest wolność, a podstaw
 
 let message = `Operuję na zdaniu: ${s}
 
-Trzynastym znakiem w tym zdaniu jest: ę.
-Znaki pomiędzy 7. a 12. pozycją to: ą szc, 
-Pierwszy raz znak 'ą' pojawia się na miejscu: 7.
-Ten ciąg ma 60 znaków,
-Po zamianie 'podstawą' na 'fundamentem' mamy: Podstawą szczęścia jest wolność, a fundamentem wolności odwaga..
-Część zdania przed przecinkiem to: Podstawą szczęścia jest wolność
-Druga część zdania po odwróceniu to: .agawdo icśonlow ąwatsdop a .`
+Trzynastym znakiem w tym zdaniu jest: ${s.charAt(13)}.
+Znaki pomiędzy 7. a 12. pozycją to: ą szc ${s.charAt(7-12)}, 
+Pierwszy raz znak 'ą' pojawia się na miejscu: ${s.indexOf('ą')}.
+Ten ciąg ma ${s.length} znaków,
+Po zamianie 'podstawą' na 'fundamentem' mamy: ${s.replace('podstawą', 'fundamentem')}.
+Część zdania przed przecinkiem to: ${s.split(',')[0]}.
+Druga część zdania po odwróceniu to: ${s.split(',')[1].split('').reverse().join('')}.`
 
 console.log(message);

@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>Tytuł strony...</title>
+	</head>
+	<body>
+        <header>
+            <h1 class="header header1">Nagłówek H1</h1>
+            <h2 id="header2" class="header">Nagłówek H2</h2>
+        </header>
+		<nav>
+			<ul>
+				<li><a href="/">Strona główna</a></li>
+				<li><a href="/newsy">Newsy</a></li>
+				<li><a href="/artykuly">Artykuły</a></li>
+				<li><a href="/opinie">Opinie</a></li>
+				<li><a href="/kontakt">Kontakt</a></li>
+			</ul>
+		</nav>
+		<section>
+            <h2>Sekcja 1</h2>
+			<article>
+                <h2>Formularz</h2>
+				<form action="http://www.jakaswitryna.com/review.php" method="get">
+					<fieldset>
+						<legend>
+							Szczegóły konta:
+						</legend>
+						<label>
+							Imię:
+							<input type="text" name="name" size="30" maxlength="100">
+						</label>
+						<br /><br />
+						<label>
+							Email:
+							<input type="email" name="email" size="30" maxlength="100">
+						</label>
+						<br />
+					</fieldset>
+					<br />
+					<fieldset>
+						<legend>
+							Kilka informacji o Tobie:
+						</legend>
+						<p>
+							Czy odwiedzisz nas ponownie?
+						<br />
+						<label>
+							<input type="radio" name="rating" value="yes" />
+							Tak
+						</label>
+						<label>
+							<input type="radio" name="rating" value="no" />
+							Nie
+						</label>
+						<label>
+							<input type="radio" name="rating" value="maybe" />
+							Może
+						</label>
+						</p>
+						<p>
+						<label for="comments">
+							Komentarz:
+						</label>
+						<br />
+						<textarea rows="4" cols="40" id="comments">
+						</textarea>
+						</p>
+						<label>
+						<input type="checkbox" name="subscribe" checked="checked" />
+							Chcę być informowany o aktualizacjach.
+						</label>
+						<br />
+						<input type="submit" value="Prześlij infomacje" />
+					</fieldset>
+					</form>
+			</article>
+		</section>
+		<aside>
+			<section class="popular-recipes">
+				<h2>Popularne przepisy</h2>
+				<a href="">Grillowany kurczak</a>
+				<a href="">Mielone kotleciki z kurczaka</a>
+				<a href="">Smażone naleśniki</a>
+				<a href="">Gulasz z kurczaka</a>
+			</section>
+			<section class="contact-details">
+				<h2>Kontakt</h2>
+				<p>Dania świata <br />
+					ul. Poznańska 27 <br />
+					Poznań
+				</p>
+			</section>
+		</aside>
+		<footer>
+			&copy; 2017 Dania świata
+		</footer>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="exercise_331.js"></script>
+	</body>
+</html>

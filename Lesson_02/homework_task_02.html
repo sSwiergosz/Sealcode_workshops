@@ -3,6 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <title>TO-DO APP</title>
+
+    <style>
+        .tasks-list li {
+            display: flex;
+            align-items: baseline;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -10,24 +17,24 @@
     </header>
     
     <main>
-        <time datetime="2017-11-20">20 listopada 2017</time>
+        <time></time>
         <input type="text" id="new-task-input">
         <button type="submit" id="add-task-btn">Add new task!</button>
 
         <ul class="tasks-list">
             <li>
                 <input type="checkbox">
-                Learn
+                <p class="task-list__paragraph">Learn</p>
                 <button type="submit" class="delete-task-btn">Delte task</button>
             </li>
             <li>
                 <input type="checkbox">
-                Watch some movies
+                <p class="task-list__paragraph">Watch some movies</p>
                 <button type="submit" class="delete-task-btn">Delte task</button>
             </li>
             <li>
                 <input type="checkbox">
-                Go for a walk
+                <p class="task-list__paragraph">Go for a walk</p>
                 <button type="submit" class="delete-task-btn">Delte task</button>
             </li>
         </ul>

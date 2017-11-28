@@ -1,0 +1,39 @@
+{
+  "songs": [
+    {
+      "title": "Title1",
+      "author": "Author1",
+      "genre": "Genre1",
+      "album": "Album1",
+      "year": "Year1"
+    },
+    {
+      "title": "Title2",
+      "author": "Author2",
+      "genre": "Genre2",
+      "album": "Album2",
+      "year": "Year2"
+    },
+    {
+      "title": "Title3",
+      "author": "Author3",
+      "genre": "Genre3",
+      "album": "Album3",
+      "year": "Year3"
+    },
+    {
+      "title": "Title4",
+      "author": "Author4",
+      "genre": "Genre4",
+      "album": "Album4",
+      "year": "Year4"
+    },
+    {
+      "title": "Title5",
+      "author": "Author5",
+      "genre": "Genre5",
+      "album": "Album5",
+      "year": "Year5"
+    }
+  ]
+}

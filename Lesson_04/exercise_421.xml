@@ -1,0 +1,37 @@
+<songs>
+  <song>
+    <title>Song1</title>
+    <author>Author1</author>
+    <genre>Genre1</genre>
+    <album>Album1</album>
+    <year>Year1</year>
+  </song>
+  <song>
+    <title>Song2</title>
+    <author>Author2</author>
+    <genre>Genre2</genre>
+    <album>Album2</album>
+    <year>Year2</year>
+  </song>
+  <song>
+    <title>Song3</title>
+    <author>Author3</author>
+    <genre>Genre3</genre>
+    <album>Album3</album>
+    <year>Year3</year>
+  </song>
+  <song>
+    <title>Song4</title>
+    <author>Author4</author>
+    <genre>Genre4</genre>
+    <album>Album4</album>
+    <year>Year4</year>
+  </song>
+  <song>
+    <title>Song5</title>
+    <author>Author5</author>
+    <genre>Genre5</genre>
+    <album>Album5</album>
+    <year>Year5</year>
+  </song>
+</songs>

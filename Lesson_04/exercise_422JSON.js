@@ -8,6 +8,7 @@ xhr.onload = function() {
 };
 
 xhr.send(null);
+const buttons = document.getElementsByClassName("btn");
 
 function innerContent(index) {
   let i = index;
@@ -22,10 +23,9 @@ function innerContent(index) {
 }
 
 function btnId() {
-  var buttons = document.getElementsByClassName("btn");
-  var prev_id=0;
+  let prev_id=0;
 
-  for (var i = 0; i <= buttons.length; i++) {
+  for (let i = 0; i <= buttons.length; i++) {
     buttons[i].onclick = function(e) {
       if(this.id != prev_id) {
         buttons[prev_id].disabled = false;

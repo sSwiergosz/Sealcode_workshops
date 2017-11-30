@@ -1,0 +1,40 @@
+{
+    "movies": [
+      {
+        "title": "Title1",
+        "genre": "Genre1",
+        "director": "Director1",
+        "year": "Year1",
+        "plot": "This is a short description of the first movie plot"
+      },
+      {
+        "title": "Title2",
+        "genre": "Genre2",
+        "director": "Director2",
+        "year": "Year2",
+        "plot": "This is a short description of the second movie plot"
+      },
+      {
+        "title": "Title3",
+        "genre": "Genre3",
+        "director": "Director3",
+        "year": "Year3",
+        "plot": "This is a short description of the third movie plot"
+      },
+      {
+        "title": "Title4",
+        "genre": "Genre4",
+        "director": "Director4",
+        "year": "Year4",
+        "plot": "This is a short description of the fourth movie plot"
+      },
+      {
+        "title": "Title5",
+        "genre": "Genre5",
+        "director": "Director5",
+        "year": "Year5",
+        "plot": "This is a short description of the fifth movie plot"
+      }
+    ]
+  }
+  

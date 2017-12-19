@@ -1,6 +1,7 @@
-let lat = document.getElementById('latitude');
-let long = document.getElementById('longitude');
-let acc = document.getElementById('accuracy');
+const lat = document.getElementById('latitude');
+const long = document.getElementById('longitude');
+const acc = document.getElementById('accuracy');
+const btn = document.getElementById('clear-storage');
 
 if (Modernizr.geolocation) {
   navigator.geolocation.getCurrentPosition(success, fail);
@@ -23,4 +24,11 @@ function fail(msg) {
   lat.innerHTML = `Error code: ${msg.code}`;
   long.style.display = 'none';
   acc.style.display = 'none';
+  btn.style.display = 'none';
 }
+
+btn.addEventListener('click', function() {
+	localStorage.clear();
+	sessionStorage.clear();
+	alert("Local and session storage empty");
+});

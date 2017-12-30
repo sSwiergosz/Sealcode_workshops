@@ -72,11 +72,21 @@ function getUTCtime(timezoneUTC) {
 
 	if(timezoneUTC > 0) {
 		let currentDate = new substractTime().substractHours(timezoneUTC);
-		return `${currentDate.getHours()}:${currentDate.getMinutes()}`;
+		if(currentDate.getMinutes() < 10) {
+			return `${currentDate.getHours()}:0${currentDate.getMinutes()}`;
+		}
+		else {
+			return `${currentDate.getHours()}:${currentDate.getMinutes()}`;
+		}
 	}
 	else {
 		let currentDate = new addTime().addHours(timezoneUTC)
-		return `${currentDate.getHours()}:${currentDate.getMinutes()}`;
+		if(currentDate.getMinutes() < 10) {
+			return `${currentDate.getHours()}:0${currentDate.getMinutes()}`;
+		}
+		else {
+			return `${currentDate.getHours()}:${currentDate.getMinutes()}`;
+		}
 	}
 }
 
@@ -99,5 +109,23 @@ function fail(msg) {
 
 if (Modernizr.geolocation) {
   navigator.geolocation.getCurrentPosition(success, fail);
+}
+
+if (Modernizr.sessionstorage) {
+	let txtName = document.getElementById('name-form');
+	let txtSurname = document.getElementById('surname-form');
+	let txtGender = document.getElementById('gender-form');
+	let txtYear = document.getElementById('year-of-birth-form');
+	let txtCity = document.getElementById('city-form');
+	let formBtn = document.getElementById('form-btn');
+
+	formBtn.addEventListener('click', function (e) {
+		e.preventDefault();
+		sessionStorage.setItem('name', txtName.value);
+		sessionStorage.setItem('surname', txtSurname.value);
+		sessionStorage.setItem('gender', txtGender.value);
+		sessionStorage.setItem('yearOfBirth', txtYear.value);
+		sessionStorage.setItem('city', txtCity.value);
+	}, false);
 }
 

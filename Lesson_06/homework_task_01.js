@@ -12,14 +12,14 @@ const utcTime = document.getElementById('time-in-utc0');
 
 class addTime extends Date {
 	addHours(h) {
-		this.setHours(this.getHours()+h);
+		this.setHours(this.getHours() + h);
     	return this;
 	}
 }
 
 class substractTime extends Date {
 	substractHours(h) {
-		this.setHours(this.getHours()-h);
+		this.setHours(this.getHours() - h);
     	return this;
 	}
 }
@@ -99,7 +99,7 @@ function success(location) {
   utcTime.innerHTML = `Time in UTC 00:00 - ${getUTCtime(timeArr[1])}`
 
   if(Modernizr.localstorage) {
-    localStorage.setItem('Timezone', getTimezone(long));
+    localStorage.setItem('Timezone', getTimezone(long)[0]);
   }
 }
 

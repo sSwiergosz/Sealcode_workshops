@@ -1,0 +1,2125 @@
+{
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            16.925371,
+            52.407955
+          ],
+          "type": "Point"
+        },
+        "id": "176",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Ratajczaka/27Grudnia"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.926455,
+            52.410962
+          ],
+          "type": "Point"
+        },
+        "id": "177",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Nowowiejskiego/Młyńska"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.927013,
+            52.410032
+          ],
+          "type": "Point"
+        },
+        "id": "178",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Nowowiejskiego/23 Lutego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.927753,
+            52.412025
+          ],
+          "type": "Point"
+        },
+        "id": "179",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Solna/Młyńska"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.928214,
+            52.40602
+          ],
+          "type": "Point"
+        },
+        "id": "180",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Św.Marcin/Marcinkowskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.928171,
+            52.400777
+          ],
+          "type": "Point"
+        },
+        "id": "181",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Półwiejska 45/Kościuszki"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.929132,
+            52.408016
+          ],
+          "type": "Point"
+        },
+        "id": "182",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Pl. Wolności przed Muzeum"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.929588,
+            52.402597
+          ],
+          "type": "Point"
+        },
+        "id": "183",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Półwiejska/Kwiatowa"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.929287,
+            52.410229
+          ],
+          "type": "Point"
+        },
+        "id": "184",
+        "type": "Feature",
+        "properties": {
+          "long_name": "23 Lutego/Marcinkowskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.930113,
+            52.401114
+          ],
+          "type": "Point"
+        },
+        "id": "185",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Rybaki 17/Krakowska"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.930617,
+            52.403822
+          ],
+          "type": "Point"
+        },
+        "id": "186",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Półwiejska/Długa"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.930945,
+            52.409777
+          ],
+          "type": "Point"
+        },
+        "id": "187",
+        "type": "Feature",
+        "properties": {
+          "long_name": "23 Lutego/Plac Wielkopolski"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.933536,
+            52.403749
+          ],
+          "type": "Point"
+        },
+        "id": "188",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Długa/Strzelecka"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.931342,
+            52.41139
+          ],
+          "type": "Point"
+        },
+        "id": "189",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Plac Wielkopolski/Solna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.931454,
+            52.405817
+          ],
+          "type": "Point"
+        },
+        "id": "190",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Podgórna/Szkolna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.932441,
+            52.407774
+          ],
+          "type": "Point"
+        },
+        "id": "191",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Stary Rynek/Szkolna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.932586,
+            52.400248
+          ],
+          "type": "Point"
+        },
+        "id": "192",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Krakowska 17A/VI LO"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.932785,
+            52.409411
+          ],
+          "type": "Point"
+        },
+        "id": "193",
+        "type": "Feature",
+        "properties": {
+          "long_name": "23Lutego/Rynkowa"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.932801,
+            52.408932
+          ],
+          "type": "Point"
+        },
+        "id": "194",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Stary Rynek /Rynkowa"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.936261,
+            52.403765
+          ],
+          "type": "Point"
+        },
+        "id": "195",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Długa/Plac Bernardynski"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.933418,
+            52.407967
+          ],
+          "type": "Point"
+        },
+        "id": "196",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Stary Rynek/Arsenał"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934029,
+            52.408613
+          ],
+          "type": "Point"
+        },
+        "id": "197",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Stary Rynek/Ratusz"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934362,
+            52.407559
+          ],
+          "type": "Point"
+        },
+        "id": "198",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Stary Rynek/Wodna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934759,
+            52.408789
+          ],
+          "type": "Point"
+        },
+        "id": "199",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Stary Rynek 37/Wielka"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934807,
+            52.400883
+          ],
+          "type": "Point"
+        },
+        "id": "200",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Krakowska 10/Szk. Podst. 82"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.935665,
+            52.406483
+          ],
+          "type": "Point"
+        },
+        "id": "201",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Plac Kolegiacki 17/Urząd Miasta"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.936132,
+            52.407964
+          ],
+          "type": "Point"
+        },
+        "id": "202",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Woźna/Ślusarska"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.935955,
+            52.400758
+          ],
+          "type": "Point"
+        },
+        "id": "203",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Garbary/Kazimierza Wielkiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.936593,
+            52.409551
+          ],
+          "type": "Point"
+        },
+        "id": "204",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Szewska 5/6 / Dominikańska"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.936722,
+            52.403312
+          ],
+          "type": "Point"
+        },
+        "id": "205",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Długa 1/Garbary Szpital"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.937403,
+            52.404392
+          ],
+          "type": "Point"
+        },
+        "id": "206",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Garbary/Podgórna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.937699,
+            52.407252
+          ],
+          "type": "Point"
+        },
+        "id": "207",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Garbary/Wodna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.93802,
+            52.41124
+          ],
+          "type": "Point"
+        },
+        "id": "208",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Garbary/Solna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.938219,
+            52.408593
+          ],
+          "type": "Point"
+        },
+        "id": "209",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Garbary/Wielka"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.938857,
+            52.406807
+          ],
+          "type": "Point"
+        },
+        "id": "210",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grobla/Mostowa"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.941132,
+            52.402573
+          ],
+          "type": "Point"
+        },
+        "id": "211",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Mostowa/Kazimierza Wielkiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.939142,
+            52.401715
+          ],
+          "type": "Point"
+        },
+        "id": "212",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Cegielskiego/Kazimierza Wielkiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.940864,
+            52.405709
+          ],
+          "type": "Point"
+        },
+        "id": "213",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grobla 7/Grobla"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.940102,
+            52.404155
+          ],
+          "type": "Point"
+        },
+        "id": "214",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Wierzbowa/Mostowa"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.942859,
+            52.404027
+          ],
+          "type": "Point"
+        },
+        "id": "215",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grobla 15/Za Groblą"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.9439,
+            52.409692
+          ],
+          "type": "Point"
+        },
+        "id": "216",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Chwaliszewo/Most Chrobrego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.947226,
+            52.411102
+          ],
+          "type": "Point"
+        },
+        "id": "217",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Ostrów Tumski/Katedra"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934501,
+            52.411293
+          ],
+          "type": "Point"
+        },
+        "id": "218",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Solna/ Wroniecka"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.909525,
+            52.411446
+          ],
+          "type": "Point"
+        },
+        "id": "219",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Dąbrowskiego/Kochanowskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.90401,
+            52.412619
+          ],
+          "type": "Point"
+        },
+        "id": "220",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Dąbrowskiego/Rynek Jeżycki"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.899429,
+            52.413573
+          ],
+          "type": "Point"
+        },
+        "id": "221",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Dąbrowskiego/Staszica"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.894268,
+            52.414888
+          ],
+          "type": "Point"
+        },
+        "id": "222",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Dąbrowskiego/Janickiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.891157,
+            52.415475
+          ],
+          "type": "Point"
+        },
+        "id": "223",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Dąbrowskiego/Żeromskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.909761,
+            52.40205
+          ],
+          "type": "Point"
+        },
+        "id": "224",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska/Dworzec Zachodni"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.904911,
+            52.399573
+          ],
+          "type": "Point"
+        },
+        "id": "225",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska/Sniadeckich"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.90209,
+            52.397365
+          ],
+          "type": "Point"
+        },
+        "id": "226",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska/Wyspianskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.89974,
+            52.395239
+          ],
+          "type": "Point"
+        },
+        "id": "227",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska/Niegolewskich"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.897412,
+            52.393171
+          ],
+          "type": "Point"
+        },
+        "id": "228",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska 90/Szkoła Muzyczna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.895969,
+            52.391545
+          ],
+          "type": "Point"
+        },
+        "id": "229",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska/Potockiej"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.894054,
+            52.390174
+          ],
+          "type": "Point"
+        },
+        "id": "230",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska/Hetmańska"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.892788,
+            52.388443
+          ],
+          "type": "Point"
+        },
+        "id": "231",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska 131/133//MPK Zajezdnia"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.88922,
+            52.38549
+          ],
+          "type": "Point"
+        },
+        "id": "232",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska\tGórki"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.88488,
+            52.382859
+          ],
+          "type": "Point"
+        },
+        "id": "233",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska/Ściegiennego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.88215,
+            52.38185
+          ],
+          "type": "Point"
+        },
+        "id": "234",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska/Górczyn pętla"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.907615,
+            52.406912
+          ],
+          "type": "Point"
+        },
+        "id": "235",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Zeylanda"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.904278,
+            52.406308
+          ],
+          "type": "Point"
+        },
+        "id": "236",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka 6/Śniadeckich"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.911204,
+            52.40436
+          ],
+          "type": "Point"
+        },
+        "id": "152",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Roosevelta/Most Dworcowy"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.911971,
+            52.406564
+          ],
+          "type": "Point"
+        },
+        "id": "153",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Roosevelta/Bukowska"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.913344,
+            52.410556
+          ],
+          "type": "Point"
+        },
+        "id": "154",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Roosevelta/Dąbrowskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.91637,
+            52.410006
+          ],
+          "type": "Point"
+        },
+        "id": "155",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Fredry/Wieniawskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.917153,
+            52.407237
+          ],
+          "type": "Point"
+        },
+        "id": "156",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Sw.Marcin/Niepodległości"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.918129,
+            52.409695
+          ],
+          "type": "Point"
+        },
+        "id": "157",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Fredry/Niepodległości"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.918344,
+            52.405804
+          ],
+          "type": "Point"
+        },
+        "id": "158",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Taylora/Niepodległości"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.91946,
+            52.412048
+          ],
+          "type": "Point"
+        },
+        "id": "159",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Libelta/Niepodległości"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.919427,
+            52.407056
+          ],
+          "type": "Point"
+        },
+        "id": "160",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Sw.Marcin/Kościuszki"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.919974,
+            52.409061
+          ],
+          "type": "Point"
+        },
+        "id": "161",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Fredry/Kościuszki"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.919814,
+            52.40424
+          ],
+          "type": "Point"
+        },
+        "id": "162",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Powstańców Wlkp./Niepodległości"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.921069,
+            52.407192
+          ],
+          "type": "Point"
+        },
+        "id": "163",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Sw.Marcin 74/Gwarna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.921573,
+            52.408491
+          ],
+          "type": "Point"
+        },
+        "id": "164",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Fredry/Mielżyńskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.921659,
+            52.401699
+          ],
+          "type": "Point"
+        },
+        "id": "165",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Towarowa/Wierzbięcice"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.921401,
+            52.411541
+          ],
+          "type": "Point"
+        },
+        "id": "166",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Libelta/Kościuszki"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.921552,
+            52.413778
+          ],
+          "type": "Point"
+        },
+        "id": "167",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Solna/Niepodległości"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.921326,
+            52.404361
+          ],
+          "type": "Point"
+        },
+        "id": "168",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Powstańców Wlkp./Kościuszki"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.922571,
+            52.412925
+          ],
+          "type": "Point"
+        },
+        "id": "169",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Kościuszki/Nowowiejskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.923215,
+            52.402702
+          ],
+          "type": "Point"
+        },
+        "id": "170",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Ratajczaka/Kościuszki"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.922925,
+            52.410723
+          ],
+          "type": "Point"
+        },
+        "id": "171",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Libelta/Działyńskich"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.924223,
+            52.403945
+          ],
+          "type": "Point"
+        },
+        "id": "172",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Ogrodowa/Ratajczaka"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.924137,
+            52.409666
+          ],
+          "type": "Point"
+        },
+        "id": "173",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Plac Cyryla Ratajskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.930221,
+            52.408573
+          ],
+          "type": "Point"
+        },
+        "id": "174",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Ludgardy/Muzeum Narodowe"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.925291,
+            52.406279
+          ],
+          "type": "Point"
+        },
+        "id": "175",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Ratajczaka 38/Św. Marcin"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.932602,
+            52.41093
+          ],
+          "type": "Point"
+        },
+        "id": "246",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Solna/Wolnica"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.900706,
+            52.405896
+          ],
+          "type": "Point"
+        },
+        "id": "237",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Szylinga"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.892401,
+            52.403527
+          ],
+          "type": "Point"
+        },
+        "id": "238",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Wojskowa"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.888496,
+            52.402461
+          ],
+          "type": "Point"
+        },
+        "id": "239",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Przybyszewskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.883454,
+            52.400809
+          ],
+          "type": "Point"
+        },
+        "id": "240",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Promienista"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.880449,
+            52.400366
+          ],
+          "type": "Point"
+        },
+        "id": "241",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Rycerska"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.876732,
+            52.39898
+          ],
+          "type": "Point"
+        },
+        "id": "242",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Grochowska"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.871984,
+            52.398085
+          ],
+          "type": "Point"
+        },
+        "id": "243",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Marszałkowska"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.86736,
+            52.396653
+          ],
+          "type": "Point"
+        },
+        "id": "244",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Palacza"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.862683,
+            52.39581
+          ],
+          "type": "Point"
+        },
+        "id": "245",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Bułgarska"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.949801,
+            52.396493
+          ],
+          "type": "Point"
+        },
+        "id": "247",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Rataje dworzec autobusowy/Rataje dworzec autobusowy"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.925795,
+            52.408617
+          ],
+          "type": "Point"
+        },
+        "id": "248",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM - 3 Maja/Pl. Wolności"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.916767,
+            52.464748
+          ],
+          "type": "Point"
+        },
+        "id": "249",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Piątkowo/Pętla Autobusowa"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.950165,
+            52.395097
+          ],
+          "type": "Point"
+        },
+        "id": "250",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Rondo Rataje/Rondo Rataje"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            17.006084,
+            52.400044
+          ],
+          "type": "Point"
+        },
+        "id": "267",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Tygrysy"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.994374,
+            52.400365
+          ],
+          "type": "Point"
+        },
+        "id": "268",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Zoo wejście"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.916809,
+            52.464114
+          ],
+          "type": "Point"
+        },
+        "id": "251",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Piątkowo/Budka tramwajowa"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.954763,
+            52.409499
+          ],
+          "type": "Point"
+        },
+        "id": "252",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Śródka/Dworzec Autobusowy"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.907524,
+            52.40116
+          ],
+          "type": "Point"
+        },
+        "id": "253",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska 18/McDonald"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.891189,
+            52.387218
+          ],
+          "type": "Point"
+        },
+        "id": "254",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska/Palacza"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.887461,
+            52.384191
+          ],
+          "type": "Point"
+        },
+        "id": "255",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Głogowska/Bosa"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.984626,
+            52.400248
+          ],
+          "type": "Point"
+        },
+        "id": "256",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Malta wieża"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.9877,
+            52.401199
+          ],
+          "type": "Point"
+        },
+        "id": "257",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Malta trybuny"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.984294,
+            52.402475
+          ],
+          "type": "Point"
+        },
+        "id": "258",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Malta sala konfer."
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.983017,
+            52.4032
+          ],
+          "type": "Point"
+        },
+        "id": "259",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Malta kamping"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.999025,
+            52.397111
+          ],
+          "type": "Point"
+        },
+        "id": "260",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Flaming przystanek"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            17.004078,
+            52.397619
+          ],
+          "type": "Point"
+        },
+        "id": "261",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Niedźwiedziarnia"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            17.001471,
+            52.399913
+          ],
+          "type": "Point"
+        },
+        "id": "262",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Pelikan przystanek"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.99999,
+            52.402348
+          ],
+          "type": "Point"
+        },
+        "id": "263",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Ryś przystanek"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            17.011298,
+            52.400392
+          ],
+          "type": "Point"
+        },
+        "id": "264",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Słoń przystanek"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            17.006406,
+            52.398683
+          ],
+          "type": "Point"
+        },
+        "id": "265",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Słoniarnia plac zabaw"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            17.007007,
+            52.399311
+          ],
+          "type": "Point"
+        },
+        "id": "266",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Sloniarnia sala konferencyjna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.995119,
+            52.399468
+          ],
+          "type": "Point"
+        },
+        "id": "269",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Zwierzeta nocne"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.853971,
+            52.390127
+          ],
+          "type": "Point"
+        },
+        "id": "270",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Smoluchowskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.849521,
+            52.388472
+          ],
+          "type": "Point"
+        },
+        "id": "271",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Sieradzka"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.839921,
+            52.385366
+          ],
+          "type": "Point"
+        },
+        "id": "272",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Cmentarna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.843998,
+            52.3866
+          ],
+          "type": "Point"
+        },
+        "id": "273",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Grotkowska"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.834991,
+            52.383548
+          ],
+          "type": "Point"
+        },
+        "id": "274",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Junikowo"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.903565,
+            52.387045
+          ],
+          "type": "Point"
+        },
+        "id": "275",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Hetmańska/Kolejowa"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.858482,
+            52.392372
+          ],
+          "type": "Point"
+        },
+        "id": "276",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Grunwaldzka/Węgorka"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.888582,
+            52.409735
+          ],
+          "type": "Point"
+        },
+        "id": "277",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Bukowska/Przybyszewskiego"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.882448,
+            52.417363
+          ],
+          "type": "Point"
+        },
+        "id": "278",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Dąbrowskiego/Szpitalna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.888346,
+            52.397251
+          ],
+          "type": "Point"
+        },
+        "id": "279",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Hetmańska/Arena"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.935268,
+            52.405948
+          ],
+          "type": "Point"
+        },
+        "id": "280",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM Plac Kolegiacki pokój 3"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934839,
+            52.405851
+          ],
+          "type": "Point"
+        },
+        "id": "281",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM Plac Kolegiacki pokój 6"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934437,
+            52.405935
+          ],
+          "type": "Point"
+        },
+        "id": "282",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Plac Kolegiacki Sala Sesyjna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934314,
+            52.40586
+          ],
+          "type": "Point"
+        },
+        "id": "283",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM Plac Kolegiacki sala biała"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934496,
+            52.405787
+          ],
+          "type": "Point"
+        },
+        "id": "284",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM Plac Kolegiacki sala błękitna"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.935483,
+            52.406155
+          ],
+          "type": "Point"
+        },
+        "id": "285",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM Plac Kolegiacki sala 121"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934346,
+            52.405715
+          ],
+          "type": "Point"
+        },
+        "id": "286",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM Plac Kolegiacki sala 207"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934609,
+            52.405897
+          ],
+          "type": "Point"
+        },
+        "id": "287",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM Plac Kolegiacki sala 309"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.93485,
+            52.406001
+          ],
+          "type": "Point"
+        },
+        "id": "288",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM Plac Kolegiacki sala 428"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.92182,
+            52.411638
+          ],
+          "type": "Point"
+        },
+        "id": "289",
+        "type": "Feature",
+        "properties": {
+          "long_name": "ul. Libelta 16/20, sala 309"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.921873,
+            52.411691
+          ],
+          "type": "Point"
+        },
+        "id": "290",
+        "type": "Feature",
+        "properties": {
+          "long_name": "ul. Libelta 16/20, Poczekalnia Wydz. Spraw Obywatelskich (USC)"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.925403,
+            52.408747
+          ],
+          "type": "Point"
+        },
+        "id": "291",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Ul. 3 Maja 46 Sala nr. 212"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934555,
+            52.429985
+          ],
+          "type": "Point"
+        },
+        "id": "292",
+        "type": "Feature",
+        "properties": {
+          "long_name": "ul. Gronowa 22a , Sala 209"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934812,
+            52.430031
+          ],
+          "type": "Point"
+        },
+        "id": "293",
+        "type": "Feature",
+        "properties": {
+          "long_name": "ul. Gronowa 22a , Poczekalnia wydz. Komunikacji"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.925645,
+            52.408725
+          ],
+          "type": "Point"
+        },
+        "id": "294",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Ul. 3 Maja 46 Sala nr. 105"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.925881,
+            52.408771
+          ],
+          "type": "Point"
+        },
+        "id": "295",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Ul. 3 Maja 46 Sala nr. 207"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.925226,
+            52.408839
+          ],
+          "type": "Point"
+        },
+        "id": "296",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Ul. 3 Maja 46 Sala nr. 317"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.935746,
+            52.40635
+          ],
+          "type": "Point"
+        },
+        "id": "297",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM Plac Kolegiacki pokój 29"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934973,
+            52.406239
+          ],
+          "type": "Point"
+        },
+        "id": "298",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM Plac Kolegiacki sala 350"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.935376,
+            52.406384
+          ],
+          "type": "Point"
+        },
+        "id": "299",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM Plac Kolegiacki sala 447"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.934853,
+            52.42984
+          ],
+          "type": "Point"
+        },
+        "id": "300",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Geopoz - Sala Obsługi"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            16.935038,
+            52.406198
+          ],
+          "type": "Point"
+        },
+        "id": "301",
+        "type": "Feature",
+        "properties": {
+          "long_name": "UM Plac Kolegiacki parking"
+        }
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            17.009764,
+            52.399575
+          ],
+          "type": "Point"
+        },
+        "id": "302",
+        "type": "Feature",
+        "properties": {
+          "long_name": "Wioska afrykańska"
+        }
+      }
+    ],
+    "crs": {
+      "type": "EPSG",
+      "properties": {
+        "code": "4326"
+      }
+    },
+    "type": "FeatureCollection"
+}

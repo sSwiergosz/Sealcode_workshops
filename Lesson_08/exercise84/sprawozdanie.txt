@@ -1,0 +1,27 @@
+Pierwszy punkt kontrolny:
+  x = 4
+  i = undefined
+  y = undefined
+
+Drugi punkt kontrolny:
+  pierwsza iteracja:
+    x = 4
+    i = 0
+    y = 1
+  druga iteracja:
+    x = 4
+    i = 1
+    y = 2
+  trzecia iteracja:
+    x = 4
+    i = 2
+    y = 3
+  czwarta iteracja:
+    x = 4
+    i = 3
+    y = 4
+
+Trzeci punkt kontrolny:
+  x = 4
+  i = undefined
+  y = 4
